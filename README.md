@@ -1,9 +1,13 @@
-Login and Register Form
+ChatOut
 ====================================
 
-A login and signup form using HTML, PHP, and MySQL. This form allows users to register and login. 
-All information is stored in a MySQL database. After successful login the user is redirected to their dashboard.
-I enjoy making software so much! Please, if you see any issues make them known!
+A chat application that is still a work in progress!
+
+Login and Register
+===============
+
+A simple login and signup form using HTML, PHP, and MySQL. This form allows users to register and login. 
+All information is stored in a MySQL database. After successful login the user is redirected to their dashboard, where they can select their chats.
 
 Documentation
 ===============
